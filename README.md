@@ -33,10 +33,11 @@ Theme Calculator app which has below features.
 
 ### You can Check it Live on Below Link :
 
-[Demo Link!](https://signup-form-validations.netlify.app/)
+[Demo Link!](https://theme-calculator-app.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/form-validations/blob/Javascript-apps/images/demo.PNG)
-![App Image with Error](https://github.com/anitha-nagadasarink/form-validations/blob/Javascript-apps/images/demo-error.PNG)
+![App Theme 1](https://github.com/anitha-nagadasarink/theme-calculator/blob/Javascript-apps/images/demo1.PNG)
+![App Theme 1](https://github.com/anitha-nagadasarink/theme-calculator/blob/Javascript-apps/images/demo2.PNG)
+![App Theme 3](https://github.com/anitha-nagadasarink/theme-calculator/blob/Javascript-apps/images/demo3.PNG)
 
